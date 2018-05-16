@@ -6,3 +6,11 @@
 2. [你知道koa中间件执行原理吗？](https://github.com/qianlongo/resume-native/issues/1)
 
 现在很想重新再阅读学习一把。
+
+## 很重要的依赖库
+
+1. [koa-compose](https://github.com/koajs/compose)
+
+2. [koa-convert](https://github.com/koajs/convert)
+
+3. ...
